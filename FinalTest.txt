@@ -1,0 +1,91 @@
+5wgePLEXN9tm2r4g
+
+
+mongodb+srv://<devanshtiwari2002>:<DevanshJabalpur123>@cluster0.3t4v2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+react - 25 projetcs + features 
+tailwind + css - styling 
+
+nextjs + backend ( java + node ) 
+gsap
+
+aws
+
+
+---------------------------------------------------------------
+
+QR Code Generator
+and Dark Mode / Theme Switch / Dark Theme
+Scroll Indicator
+Tabs
+Modal Popup
+Github Profile Finder
+Search Autocomplete with API implementation
+Tic Tac Toe
+Feature Flag Implementation
+useFetch Custom Hook
+useOnclickOutside Custom Hook
+useWindowResize / useResponsive Custom Hook
+Scroll to Top and Bottom
+Scroll to Particular Section
+Weather App
+Food Recipe App
+Shopping Cart App
+Expense Tracker App
+(8:31:15) Mern Stack Blog App
+
+
+(0:00) Introduction
+(4:48) Accordion
+(28:48) Random Color Generator
+(1:03:13) Star Rating Component
+(1:23:31) API Call - XHR, Fetch and Async Await
+(1:45:26) Image Slider
+(2:20:00) Load more button API call
+(2:43:48) Light and Dark mode
+(3:01:10) Random Quote Generator
+(3:15:20) Custom Tabs
+(3:29:35) Custom Modal Popup
+(3:41:31) Tic Tac Toe
+(4:00:52) Filter Cards
+(4:19:00) QR Code Generator
+(4:31:20) Scroll to Top and Scroll to Bottom
+(4:45:30) Button ripple effect
+(5:00:50) Multistep progress bar
+(5:24:30) Scroll Indicator
+(5:42:30) Tip calculator
+(6:10:40) Sticky Navbar
+(6:21:49) Random image generator
+(6:28:25) Github Profile finder
+(6:39:30) Pagination
+(7:12:10) Recipe App
+(7:49:51) Notes App with local storage 
+
+
+Introduction
+ Pagination
+(32:05) Digital Clock
+(38:04) Stopwatch/ Countdown Timer
+(56:01) Step progress bar
+(1:12:03) Random quote generator
+(1:21:00) Tootip
+(1:29:35) Currency Converter
+(1:45:00) Filter Cards 
+(2:05:00) Tip Calculator
+(2:23:00) Music Player
+(2:38:50) Custom Progress Bar
+(2:49:32) BMI Calculator
+(3:03:30) Button ripple effect
+(3:18:05) Drag and Drop
+(3:39:32) Form Validation
+(4:02:19) File Upload with preview
+(4:19:15) Quiz app
+(4:45:14) Nested Comments
+(5:15:02) PDF Viewer
+(5:31:38) Firebase Todo
+(6:05:35) Firebase Auth
+(6:54:25) Debounce API call
+(7:12:00) Sort data
+(7:28:11) Movie Application
+(8:30:30) Google OAuth login
