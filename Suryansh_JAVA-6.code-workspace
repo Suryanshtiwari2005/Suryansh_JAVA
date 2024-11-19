@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Suryansh_JAVA-2",
+			"path": "Suryansh_JAVA-2"
+		},
+		{
+			"name": "Suryansh_JAVA-3",
+			"path": "Suryansh_JAVA-3"
+		},
+		{
+			"name": "Suryansh_JAVA-4",
+			"path": "Suryansh_JAVA-4"
+		},
+		{
+			"name": "Suryansh_JAVA-5",
+			"path": "Suryansh_JAVA-5"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

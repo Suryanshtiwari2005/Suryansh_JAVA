@@ -1,0 +1,343 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CardLayoutDemo",
+      "request": "launch",
+      "mainClass": "CardLayoutDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "GridBagLayoutDemo",
+      "request": "launch",
+      "mainClass": "GridBagLayoutDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Myframe$GridLayout",
+      "request": "launch",
+      "mainClass": "Myframe$GridLayout",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "BorderLayoutDemo",
+      "request": "launch",
+      "mainClass": "BorderLayoutDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "FlowLayoutDemo",
+      "request": "launch",
+      "mainClass": "FlowLayoutDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ScrollDemo",
+      "request": "launch",
+      "mainClass": "ScrollDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ListBox",
+      "request": "launch",
+      "mainClass": "ListBox",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "TextAreaDemo",
+      "request": "launch",
+      "mainClass": "TextAreaDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "TextFieldDemo",
+      "request": "launch",
+      "mainClass": "TextFieldDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "CheckBoxDemo",
+      "request": "launch",
+      "mainClass": "CheckBoxDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ButtonDemo",
+      "request": "launch",
+      "mainClass": "ButtonDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "FirstApp",
+      "request": "launch",
+      "mainClass": "FirstApp",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BitsSetDemo",
+      "request": "launch",
+      "mainClass": "BitsSetDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ComparatorDemo",
+      "request": "launch",
+      "mainClass": "ComparatorDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "DataGramClient",
+      "request": "launch",
+      "mainClass": "DataGramClient",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Database",
+      "request": "launch",
+      "mainClass": "Database",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "DemoJdbc",
+      "request": "launch",
+      "mainClass": "DemoJdbc",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ExceotionTryCatch",
+      "request": "launch",
+      "mainClass": "ExceotionTryCatch",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionDemo",
+      "request": "launch",
+      "mainClass": "ExceptionDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "HashTableDemo",
+      "request": "launch",
+      "mainClass": "HashTableDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "IntegerWrapper",
+      "request": "launch",
+      "mainClass": "IntegerWrapper",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashDemo",
+      "request": "launch",
+      "mainClass": "LinkedHashDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashMapDemo",
+      "request": "launch",
+      "mainClass": "LinkedHashMapDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashSetDemo",
+      "request": "launch",
+      "mainClass": "LinkedHashSetDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "MapDemo",
+      "request": "launch",
+      "mainClass": "MapDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "MultiThreading",
+      "request": "launch",
+      "mainClass": "MultiThreading",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "MultipleCatch",
+      "request": "launch",
+      "mainClass": "MultipleCatch",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ObjectClass",
+      "request": "launch",
+      "mainClass": "ObjectClass",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Problem_196",
+      "request": "launch",
+      "mainClass": "Problem_196",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Propertydemo",
+      "request": "launch",
+      "mainClass": "Propertydemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ResourceDemo",
+      "request": "launch",
+      "mainClass": "ResourceDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ReverseEcho",
+      "request": "launch",
+      "mainClass": "ReverseEcho",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Server",
+      "request": "launch",
+      "mainClass": "Server",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "StudentChallenge192",
+      "request": "launch",
+      "mainClass": "StudentChallenge192",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "ThreadMethod2",
+      "request": "launch",
+      "mainClass": "ThreadMethod2",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "TokenizerDemo",
+      "request": "launch",
+      "mainClass": "TokenizerDemo",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "UserDefinedException",
+      "request": "launch",
+      "mainClass": "UserDefinedException",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "Variables",
+      "request": "launch",
+      "mainClass": "Variables",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "WrapperClass",
+      "request": "launch",
+      "mainClass": "WrapperClass",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "araay",
+      "request": "launch",
+      "mainClass": "araay",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "client",
+      "request": "launch",
+      "mainClass": "client",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "input",
+      "request": "launch",
+      "mainClass": "input",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "keyboard",
+      "request": "launch",
+      "mainClass": "keyboard",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "menuP",
+      "request": "launch",
+      "mainClass": "menuP",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    },
+    {
+      "type": "java",
+      "name": "throwNcatch",
+      "request": "launch",
+      "mainClass": "throwNcatch",
+      "projectName": "Suryansh_JAVA_a65818fd"
+    }
+  ]
+}
